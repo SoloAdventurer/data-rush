@@ -8,3 +8,5 @@ venv/
 node_modules/
 .DS_Store
 *.csv
+spark\jobs\phase2.py
+spark\jobs\phase3.py
