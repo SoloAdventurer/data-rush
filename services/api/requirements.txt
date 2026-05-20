@@ -1,6 +1,0 @@
-strawberry-graphql[fastapi]
-uvicorn
-motor          # async MongoDB
-redis[asyncio]
-aiokafka
-python-dotenv
